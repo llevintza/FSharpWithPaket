@@ -1,0 +1,4 @@
+NUGET
+  remote: https://api.nuget.org/v3/index.json
+    FSharp.Core (4.7) - restriction: >= net472
+    System.ValueTuple (4.4) - restriction: >= net472
