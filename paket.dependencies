@@ -3,3 +3,4 @@ source https://api.nuget.org/v3/index.json
 
 nuget FSharp.Core 4.7.0 prerelease restriction: >= net472
 nuget System.ValueTuple 4.4.0 prerelease restriction: >= net472
+nuget Kafunk 0.1.16
